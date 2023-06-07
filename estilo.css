@@ -1,0 +1,41 @@
+body {
+    margin: 0px;
+    background-color: rgb(16, 177, 169);
+    font: normal 15pt Arial;
+    background-size: 100%;
+}
+
+header {
+    color: white;
+    text-align: center;
+
+
+}
+
+section {
+    background-color: salmon;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px #181515;
+    background-image: url('escamas.jpg');
+    opacity: 99%;
+    font-size: 20pt;
+    font-family: fantasy;
+    color: rgb(255, 255, 255);
+
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 10pt;
+    
+}
+div {
+    text-align: center;
+    padding: 8px;
+    
+}
